@@ -2,7 +2,7 @@
 
 Étudiant en Master Informatique, voici les projets réalisé au cours de ma scolarité
 
-## Domaines étudié
+## Domaines étudié via les projet
 
 - Java / Spring Boot
 - Python
@@ -13,6 +13,8 @@
 - Machine Learning / PyTorch
 - Compilation
 - Systèmes distribués
+- Recherche académique
+- Algorithme génétique
 
 ## Projets principaux
 
