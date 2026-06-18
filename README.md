@@ -1,8 +1,8 @@
 # Samuel Premel
 
-Étudiant en Master Informatique, passionné par le développement backend, les systèmes distribués, la compilation, l’intelligence artificielle et l’ingénierie logicielle.
+Étudiant en Master Informatique, voici les projets réalisé au cours de ma scolarité
 
-## Domaines techniques
+## Domaines étudié
 
 - Java / Spring Boot
 - Python
@@ -31,4 +31,5 @@ Benchmark de parallélisme de données pour l’entraînement de modèles PyTorc
 ## Contact
 
 - GitHub : [@senur2](https://github.com/senur2)
+- Mail : samuel.premel83@gmail.com
 - Étudiant en Master Informatique
