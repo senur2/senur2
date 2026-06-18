@@ -28,6 +28,9 @@ Projet Java/Maven de compression d’entiers avec comparaison de stratégies de 
 ### PyTorch Distributed Grid5000
 Benchmark de parallélisme de données pour l’entraînement de modèles PyTorch sur CPU/GPU.
 
+### Compte rendu Hopfield
+Projet de l'eur DS4H sur la construction d'un papier présentant à des élève de Master les résaux de hopfield avec démo interractive 
+
 ## Contact
 
 - GitHub : [@senur2](https://github.com/senur2)
